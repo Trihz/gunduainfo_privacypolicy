@@ -7,9 +7,9 @@ GunduaInfo is intended for adult citizens of Kenya. We do not knowingly collect 
 ## 2. Information We Collect  
 We may collect the following types of information:
 ### Personally Identifiable Information (PII):
-Email address, Collected to create a unique user identifier, enabling personalized budget information delivery and account management.
-Gender (Male, Female): Collected for demographic analysis, allowing us to understand the user base and tailor our services effectively.
-Age bracket (18-35 years, Above 35 years) for demographic analysis.
+### Email address, Collected to create a unique user identifier, enabling personalized budget information delivery and account management.
+### Gender (Male, Female): Collected for demographic analysis, allowing us to understand the user base and tailor our services effectively.
+### Age bracket (18-35 years, Above 35 years) for demographic analysis.
 User-provided location data corresponding to Kenyan electoral boundaries (County, Sub-County, and Ward) to enable delivery of relevant budget information.
 Non-Personally Identifiable Information (Non-PII):
 Usage data (e.g., app interactions, features used)
