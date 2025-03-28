@@ -6,7 +6,7 @@ This Privacy Policy describes how The Center for Transformational Leadership col
 GunduaInfo is intended for adult citizens of Kenya. We do not knowingly collect personal information from children
 ### 2. Information We Collect  
 We may collect the following types of information:
-Personally Identifiable Information (PII):
+## Personally Identifiable Information (PII):
 Email address, Collected to create a unique user identifier, enabling personalized budget information delivery and account management.
 Gender (Male, Female): Collected for demographic analysis, allowing us to understand the user base and tailor our services effectively.
 Age bracket (18-35 years, Above 35 years) for demographic analysis.
