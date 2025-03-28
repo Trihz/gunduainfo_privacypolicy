@@ -1,5 +1,5 @@
 GunduaInfo Mobile App Privacy Policy
-Last Updated: [Date]
+
 1. Introduction
 GunduaInfo is a mobile application designed to provide citizens with up-to-date budget information, including details on public participation opportunities and budgetary allocations for development projects. The app features push notifications to remind users of upcoming public participation events and serves as a searchable repository for budget information from previous financial years.
 This Privacy Policy describes how The Center for Transformational Leadership collects, uses, and shares information when you use our mobile application, GunduaInfo. We are committed to protecting your privacy and ensuring the security of your personal information.
